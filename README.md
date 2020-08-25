@@ -1,2 +1,3 @@
-# Contact-Information-System-based-on-Linked-List
+# Contact-Information-System
+
 Linked-List 기반 연락처 시스템
