@@ -1,14 +1,11 @@
 # Contact-Information-System
 
 Linked-List 기반 연락처 시스템
-<br/><br/><br/>
+<br/><br/><br/><br/>
 
 ## 명령어 소개
 ![image](https://user-images.githubusercontent.com/37769713/91171784-0bb61300-e716-11ea-87b1-c4a670287306.png)    
-
-
-
-
+<br/><br/>
 
 ## 결과화면
 ![image](https://user-images.githubusercontent.com/37769713/91172235-cc3bf680-e716-11ea-89b4-b9ca1122792a.png)
